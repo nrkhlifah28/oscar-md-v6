@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
-global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
-global.location = "Jatim" //ur location
+global.vcardowner = ['6289618728196'] //ur owner number
+global.ownername = "Nurpah ZG" //ur owner name
+global.developer = "Nurpah ZG" //nama lu
+global.ytname = "YT: Noeerrr" //ur yt chanel name
+global.socialm = "https://instagram.com/nrkhlifah28" //ur github or insta name
+global.sgc = "https://chat.whatsapp.com/DZgAa85hF2NDKGo20Ra7yS"
+global.location = "Tangerang" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
+global.owner = ['6289618728196'] //ur number
+global.ownernomer = "6289618728196" //ur number
+global.ownertag = '6289618728196' //ur tag number
+global.premium = ['6289618728196'] //ur premium number
+global.botname = '© NoerBoTZ-Mdོ' //ur bot name
+global.ownername = "© Nurpeh ZG"
 global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.dana = "6289618728196"
+global.pulsa = "6289618728196"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
-global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
+global.botscript = 'beli lah bang' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.author = "Noer Bot" //ur sticker watermark author
+global.wm = "Nurpah ZG" //ur watermark
 
 // Other
 global.sessionName = 'Session'
